@@ -1,7 +1,7 @@
 {
   "name": "Truecaller-Bot",
   "description": "A telegram bot which gather information about an indian phone number(Gather results from both Truecaller and eyecon)",
-  "repository": "https://github.com/oVoIndia/Truecaller-Bot",
+  "repository": "https://github.com/mirshad517/truecaller.git",
   "logo": "https://raw.githubusercontent.com/oVoIndia/Truecaller-Bot/main/logo.jpg",
   "keywords": ["Truecaller","telegram","telegram bot","bot","pyrogram","information gathering"],
   "env": {
