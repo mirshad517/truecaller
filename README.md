@@ -21,7 +21,7 @@ Mozilla Public License for more details.
 
 #### The Easy Way
 
-[![oVoIndia](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+[![oVoIndia](https://www.herokucdn.com/deploy/button.svg)](https://github.com/mirshad517/truecaller.git)
 
 
 #### The Legacy Way
